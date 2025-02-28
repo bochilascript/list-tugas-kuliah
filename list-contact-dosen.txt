@@ -1,8 +1,14 @@
-Logika Matematika+6289654045040+Bu Majida
-Bahasa Indonesia+6283834650689+Bu Wegig
-Praktikum Pemrograman+6285749661649+Pak Gemma
-P. Sistem Informasi+6281938020870+Pak Wawan
-Pendidikan Pancasila+6289680967865+Pak Fajar
-Manajemen Kepemimpinan+?+Pak Sunardi
-Bahasa Inggris+6285331422333+Pak Nur
-Algoritma & Pemrograman+628978812869+Pak Rasyid
+===Hari Senin===
+Sistem Informasi Manajemen +6281938020870+ Pak Kurniawan 
+Aljabar Linear +6289654045040+ Bu Majida
+===Hari Selasa===
+LIBUR
+===Hari Rabu ===
+Praktikum Struktur Data +6285749661649+ Pak Gemma
+Organisasi dan Arsitektur Komputer +6281937093000+ Pak Makin
+===Hari Kamis===
+Kewarganegaraan +6289680967865+ Pak Fajar
+Kewirausahaan+6287754539359+ Pak Mashudi
+===Hari Jum'at===
+Bahasa Inggris Profesi +6285755250912+ Bu Khusnul
+Struktur Data +628978812869+ Pak Rasyid (Pak Alimi +6281556509780+ "Dosen Pengganti" )
